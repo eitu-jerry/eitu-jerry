@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ios(Swift), 3D Modeling
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-## eitu97.tistory.com
+## eitu9761@gmail.com
 
 <!---
 eitu-jerry/eitu-jerry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
