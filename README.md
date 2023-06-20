@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @eitu-jerry. Working as Android App Developer since 2021.10 ~
 ## ✨ My Projects
-- [Mohe] | https://play.google.com/store/apps/details?id=com.prosense.mohe
-- [zuudo] | https://play.google.com/store/apps/details?id=com.notegg.zuudo
+- [Mohe]       : https://play.google.com/store/apps/details?id=com.prosense.mohe
+- [zuudo]      : https://play.google.com/store/apps/details?id=com.notegg.zuudo
 - [TimeBox]    : https://play.google.com/store/apps/details?id=com.notegg.timebox
 - [PickBox]    : https://play.google.com/store/apps/details?id=com.notegg.pickbox
 - [DayBox]     : https://play.google.com/store/apps/details?id=com.notegg.daybox
