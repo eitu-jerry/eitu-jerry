@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @eitu-jerry.
-## I'm working as Android App Developer since 2021.10 ~
+## 🕮 I'm working as Android App Developer since 2021.10 ~
 ## ✨ My Projects
 - [Mohe]       : https://play.google.com/store/apps/details?id=com.prosense.mohe
 - [zuudo]      : https://play.google.com/store/apps/details?id=com.notegg.zuudo
