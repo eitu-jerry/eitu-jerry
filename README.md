@@ -1,10 +1,11 @@
 ## 👋 안녕하세요! @eitu-jerry 입니다
 ## 🗓️ 2021년 10월부터 안드로이드 애플리케이션 개발자로 일하고있어요!
-  낫에그 : 2021.10 ~ 2024.02
-  (주)엘앤에이치랩스 : 2024.08 ~
-## ℹ︎ 이런 언어를 다룹니다
-  Kotlin(주력), JAVA
+- <b>낫에그 : 2021.10 ~ 2024.02</b>
+- <b>(주)엘앤에이치랩스 : 2024.08 ~</b>
+## 제 기술 스택은
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ## ✨ 다음과 같은 프로젝트들에 참여했습니다
+- [하루핏카디오DTx] : https://play.google.com/store/apps/details?id=com.lnhlabs.harufitcardiodtx
 - [Mohe]       : https://play.google.com/store/apps/details?id=com.prosense.mohe
 - [zuudo]      : https://play.google.com/store/apps/details?id=com.notegg.zuudo
 - [TimeBox]    : https://play.google.com/store/apps/details?id=com.notegg.timebox
