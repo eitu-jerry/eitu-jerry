@@ -5,7 +5,7 @@
 ## 제 기술 스택은
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ## ✨ 다음과 같은 프로젝트들에 참여했습니다
-- [하루핏카디오DTx] : https://play.google.com/store/apps/details?id=com.lnhlabs.harufitcardiodtx
+- [하루핏카디오DTx] : https://play.google.com/store/apps/details?id=com.landhlabs.harufitcardiodtx
 - [Mohe]       : https://play.google.com/store/apps/details?id=com.prosense.mohe
 - [zuudo]      : https://play.google.com/store/apps/details?id=com.notegg.zuudo
 - [TimeBox]    : https://play.google.com/store/apps/details?id=com.notegg.timebox
